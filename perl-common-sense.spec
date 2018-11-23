@@ -4,7 +4,7 @@
 #
 Name     : perl-common-sense
 Version  : 3.74
-Release  : 2
+Release  : 3
 URL      : https://cpan.metacpan.org/authors/id/M/ML/MLEHMANN/common-sense-3.74.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/M/ML/MLEHMANN/common-sense-3.74.tar.gz
 Summary  : unknown
@@ -75,8 +75,8 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.26.1/x86_64-linux-thread-multi/common/sense.pm
-/usr/lib/perl5/vendor_perl/5.26.1/x86_64-linux-thread-multi/common/sense.pod
+/usr/lib/perl5/vendor_perl/5.28.0/x86_64-linux-thread-multi/common/sense.pm
+/usr/lib/perl5/vendor_perl/5.28.0/x86_64-linux-thread-multi/common/sense.pod
 
 %files dev
 %defattr(-,root,root,-)

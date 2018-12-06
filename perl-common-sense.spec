@@ -4,7 +4,7 @@
 #
 Name     : perl-common-sense
 Version  : 3.74
-Release  : 6
+Release  : 7
 URL      : https://cpan.metacpan.org/authors/id/M/ML/MLEHMANN/common-sense-3.74.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/M/ML/MLEHMANN/common-sense-3.74.tar.gz
 Summary  : unknown
